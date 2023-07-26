@@ -1,3 +1,5 @@
+### LIVE LINK :- <a href='https://prashread.ccbp.tech/'>Read More or les</a>
+
 In this project, let's build a **Read More/Less** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -69,8 +71,8 @@ Use these files to complete the implementation:
 - To extract the part of the string we can use the `slice()`
 
   ```js
-  const text = 'Hello world!';
-  const slicedText = text.slice(0, 5); // Hello
+  const text = 'Hello world!'
+  const slicedText = text.slice(0, 5) // Hello
   ```
 
 </details>
